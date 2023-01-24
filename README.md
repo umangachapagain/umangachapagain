@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umanga Chapagain</h1>
-<h3 align="center">Senior Software Engineer @ Red Hat</h3>
+<h3 align="center">Senior Software Engineer @ IBM</h3>
 
 
 <p align="center">
